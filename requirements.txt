@@ -1,3 +1,5 @@
+wheel
+lit
 torch==2.2.2
 torchaudio==2.2.2
 faster-whisper==1.0.2
